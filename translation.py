@@ -1,4 +1,4 @@
-# This script allows you to select one or more subtitle files and translate them into a target language. It uses the DeepL API to perform the translation.
+# This script allows you to select one or more files and translate them into a target language. It uses the DeepL API to perform the translation.
 
 # Modules
 import tkinter as tk
